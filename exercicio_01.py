@@ -1,0 +1,1 @@
+print(f"Resposta: {float(input('Digite o primeiro número: '))+float(input('Digite o segundo número: '))}")

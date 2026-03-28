@@ -1,0 +1,1 @@
+print(f"O preço final do produto é R${format(float(input('Digite o preço do produtos em reais: R$'))*float(input('Digite o desconto a ser aplicado: '))/100, '.2f')}.")
